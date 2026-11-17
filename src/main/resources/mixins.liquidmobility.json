@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.kipstudio.liquidmobility.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "liquidmobility.refmap.json",
+  "client": [
+    "PlayerModelMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
